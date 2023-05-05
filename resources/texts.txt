@@ -1,0 +1,27 @@
+// Display credits
+  Autor:
+    - Tomás Pino Pérez
+    
+  Agradecimento:
+    - ChatGPT
+// Display info
+ Aquí tienes algunos ajustes recomendados para usar el programa.
+   Tamaño terminal:
+     - mínimo 80*30
+   También puedes hacer zoom ('CTRL' '+') o ('CTRL' 'SHIFT/ALT' '+')
+// Display options
+ [0] - Salir
+ [1] - Reglas
+ [2] - Créditos
+ [3] - Información
+ [4] - Jugar IA
+ [5] - Jugar Online
+ [6] - Ver Baraja
+// Display finish
+ Gracias por jugar, espero que te hayas divertido.
+// Display IA game
+  IA Game, set-up
+// Display Online game
+  Online Game, set-up
+// Display rules
+ Aquí tienes las reglas del juego para usar el programa.
